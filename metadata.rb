@@ -1,0 +1,10 @@
+name 'test'
+maintainer 'Chulki Lee'
+maintainer_email 'chulki.lee@gmail.com'
+license ''
+description ''
+version '0.0.0'
+
+depends 'openssh'
+depends 'nginx'
+depends 'user'
