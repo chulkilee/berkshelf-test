@@ -6,5 +6,5 @@ description ''
 version '0.0.0'
 
 depends 'openssh'
-depends 'nginx'
+depends 'nginx', '>= 2.6.2'
 depends 'user'
